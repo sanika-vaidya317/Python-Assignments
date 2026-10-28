@@ -6,7 +6,7 @@ c=int(input("Third no:"))
 if a==b==c:
     print("All numbers are equal")
 elif a==b and a>c:
-    print("a and b and greatest")
+    print("a and b are greatest")
 elif a==c and a>b:
     print("a and c are greatest")
 elif b==c and b>a:
