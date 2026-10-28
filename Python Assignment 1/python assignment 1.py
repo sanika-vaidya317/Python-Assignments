@@ -25,7 +25,7 @@ print("total no of registered students:",len(students))
 #check for Isha
 print("Is Isha registered?","Isha" in students)
 
-#aphabetical order
+#alphabetical order
 students.sort()
 print("alphabetical order:",students)
 
